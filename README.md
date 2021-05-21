@@ -1,5 +1,5 @@
-#**Smile Detector using Deep Neural Network**
-<br>
+# Smile Detector using Deep Neural Network**
+
 Smile Detector Project using Deep Neural Network is a simple implementation of DNN on Emoji faces of happy and sad. We will read the emojis from images and train them on our DNN. Later we use the trained model to predict whether the face image provided is happy or sad. For this we are going to use 10 happy faces and 10 sad faces for training, and one from each category for testing.
 
 The steps followed in this mini-project are:
